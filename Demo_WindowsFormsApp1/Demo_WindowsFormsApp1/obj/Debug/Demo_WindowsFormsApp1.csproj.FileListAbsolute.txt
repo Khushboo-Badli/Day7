@@ -1,0 +1,16 @@
+C:\Users\Khushboo Badil\source\repos\Demo_WindowsFormsApp1\Demo_WindowsFormsApp1\bin\Debug\Demo_WindowsFormsApp1.exe.config
+C:\Users\Khushboo Badil\source\repos\Demo_WindowsFormsApp1\Demo_WindowsFormsApp1\bin\Debug\Demo_WindowsFormsApp1.exe
+C:\Users\Khushboo Badil\source\repos\Demo_WindowsFormsApp1\Demo_WindowsFormsApp1\bin\Debug\Demo_WindowsFormsApp1.pdb
+C:\Users\Khushboo Badil\source\repos\Demo_WindowsFormsApp1\Demo_WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Khushboo Badil\source\repos\Demo_WindowsFormsApp1\Demo_WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Khushboo Badil\source\repos\Demo_WindowsFormsApp1\Demo_WindowsFormsApp1\obj\Debug\Demo_WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Khushboo Badil\source\repos\Demo_WindowsFormsApp1\Demo_WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Khushboo Badil\source\repos\Demo_WindowsFormsApp1\Demo_WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Khushboo Badil\source\repos\Demo_WindowsFormsApp1\Demo_WindowsFormsApp1\obj\Debug\Demo_WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\Khushboo Badil\source\repos\Demo_WindowsFormsApp1\Demo_WindowsFormsApp1\obj\Debug\Demo_WindowsFormsApp1.Form1.resources
+C:\Users\Khushboo Badil\source\repos\Demo_WindowsFormsApp1\Demo_WindowsFormsApp1\obj\Debug\Demo_WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Khushboo Badil\source\repos\Demo_WindowsFormsApp1\Demo_WindowsFormsApp1\obj\Debug\Demo_WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Khushboo Badil\source\repos\Demo_WindowsFormsApp1\Demo_WindowsFormsApp1\obj\Debug\Demo_WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Khushboo Badil\source\repos\Demo_WindowsFormsApp1\Demo_WindowsFormsApp1\obj\Debug\Demo_WindowsFormsApp1.exe
+C:\Users\Khushboo Badil\source\repos\Demo_WindowsFormsApp1\Demo_WindowsFormsApp1\obj\Debug\Demo_WindowsFormsApp1.pdb
+C:\Users\Khushboo Badil\source\repos\Demo_WindowsFormsApp1\Demo_WindowsFormsApp1\obj\Debug\Demo_WindowsFormsApp1.Mediaplayer.resources
